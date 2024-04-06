@@ -19,5 +19,5 @@ WeatherApp is a simple web application that allows users to check the current we
 ## Credits
 
 - Weather icons from [Flaticon](https://www.flaticon.com/)
-- Background images from [freepik](https://freepik.com/)
+- Background images from [Freepik](https://freepik.com/)
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/)
