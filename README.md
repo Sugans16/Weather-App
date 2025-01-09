@@ -21,3 +21,5 @@ WeatherApp is a simple web application that allows users to check the current we
 - Weather icons from [Flaticon](https://www.flaticon.com/)
 - Background images from [Freepik](https://freepik.com/)
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/)
+
+Host link : https://sugans-weatherapp01bh.netlify.app/
